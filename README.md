@@ -31,3 +31,15 @@ Escolhemos abordar o primeiro tem, de uso do Stop Drill.
 <p><img src="https://i.imgur.com/9fEcnrZ.png" alt="Descrição do segundo marker"/><p>
   
 <p><img src="https://i.imgur.com/A4wiZCy.png" alt="Descrição do segundo marker"/><p>
+  
+<h3>Recursos:<h3>
+ 
+Imagem do Kanji marker: https://stemkoski.github.io/AR-Examples/markers/kanji.png
+
+Image do Hiro marker: https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg
+
+Link do projeto no Glitch: https://glitch.com/~granite-raclette
+
+Link do webapp no Glitch: https://granite-raclette.glitch.me
+
+
