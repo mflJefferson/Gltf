@@ -15,9 +15,12 @@
 **Descrição**: Projeto de IHC relacionado a realidade aumentada, onde usamos um modelo 3D de furadeira para instruir os funcionários da empresa Latécoère, dinamizando o treinamento. 
 Utilizamos de HTML/JS em conjunto com a biblioteca AR.JS, e o CodePen para testes. A aplicação foi implementada na plataforma online Glitch.
 
-<p><img src="https://i.imgur.com/a633rPF.png" alt="Descrição da imagem"/><p>
+<p><img src="https://i.imgur.com/a633rPF.png" alt="Descrição do tema"/><p>
   
 Escolhemos abordar o primeiro tem, de uso do Stop Drill.
 
 
 **Solução proposta**: Utilizando-se dos componentes do framework A-FRAME mostramos uma animação de uma peça sendo perfurada na ausência de um Stop Drill, danificando a peça. Em um segundo marcador é mostrado a perfuração sendo feita de modo correto, com o Stop Drill sendo efetivamente utilizado.
+
+<p><img src="https://i.imgur.com/RZhbBqR.png" alt="Descrição do primeiro marker/><p>
+  
